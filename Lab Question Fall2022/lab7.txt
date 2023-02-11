@@ -1,0 +1,4 @@
+1) Write program to build a max heap from a given set of numbers
+2) Write a program to extract maximum from the given heap
+3) Write a program that sort a given set of numbers using heap sort.
+4) Write a program to extract maximum from a maxheap.

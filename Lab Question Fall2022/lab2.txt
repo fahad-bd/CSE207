@@ -1,0 +1,5 @@
+1. Write a program that will merge two given linked list.
+
+2. Write a program that will copy a linked list to another one.
+
+3. Write a program that will swap two nodes (kth and (K+1)) the node of a linked list. Keep it in mind, swap node does  not mean the swap of the value of the nodes.

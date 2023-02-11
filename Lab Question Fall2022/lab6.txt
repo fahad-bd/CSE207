@@ -1,0 +1,5 @@
+1. Create a binary tree from given  preorder and inorder traversing sequence.
+
+2. Create a binary search tree from a given sequence of number.
+
+3. Write a menu driven program where menu items are i) insert,  ii) delete, iii) inorder traversing, and iv) exit. You have to implement the menu items so that you can build a binary search tree from a given set a numbers and you can delete an item from that tree as per user requirement.

@@ -1,0 +1,23 @@
+Write a program which is menu driven 
+(i) Create a list, 
+(ii) Sort the list, 
+(iii) Reverse the list, 
+(iv) Remove duplicate, 
+(v) Print the list.
+It will create a linked list with double type data.
+
+
+
+
+Write a program that will input clients information (i.e. name, address, NID, amount) who have applied for opening an account in a bank. You have to declare a pointer variable to input
+the information and dynamically allocate memory for storing information of each
+client. The data type of name, address, NID must be char array and amount must
+be float. You have to implement the following operation.
+
+i) Create a list with the given client information
+
+ii)Delete a client of a given NID
+
+iii) Print the client having highest amount
+
+iv) Sort and print the client NID, name and amount in descending order based on the amount

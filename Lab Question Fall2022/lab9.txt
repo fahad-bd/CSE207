@@ -1,0 +1,2 @@
+1. Write down a program to implement prim's algorithm to generate a minimum spanning tree from a given weighted graph. The program will takes a graph having weight on edges and it will return a minimum spanning tree. You have to print the cost as well as tree of the resultant spanning tree.
+

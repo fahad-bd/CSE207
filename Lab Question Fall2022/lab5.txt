@@ -1,0 +1,5 @@
+a) Write down a program to determine the summation of given array containing integer values. You have to use recursion to calculate summation.
+
+b) Write down a program to reverse a given character array. You have to use recursion in the reverse function.
+
+c) Write down a program to find an element in a given array using linear search. You have to implement the linear search function using recursion.

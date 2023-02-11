@@ -1,0 +1,9 @@
+a) Create a dynamic array. You have to take the size of the array from the keyboard. You will read a set of numbers from the keyboard and store it in the dynamic array. You have to print the content of the array as well as search an element in the array.
+
+b) Create a linked list. Each node will contain an integer value. Your system must be capable to insert an element 
+
+	i) at the beginning of the list, 
+	ii) at the end of the list, and 
+	iii) any location other than beginning or end. You system will print the list as required.
+
+c) Create a sorted linked list.

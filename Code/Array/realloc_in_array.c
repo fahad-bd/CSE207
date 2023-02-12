@@ -26,6 +26,8 @@ int main()
             if(arr_element >= Size){
                 int *temp = (int *)realloc(arr, sizeof(int)*(arr_element*2));
                 arr = temp;
+                free(temp);
+                Size = arr_element*2;
             }
             arr[arr_element] = number;
         }

@@ -1,0 +1,6 @@
+Implement the following operation of a dynamic array.
+a) add element
+b) remove element
+c)increase size of the array
+d) decrease size of the array
+e) free the memory

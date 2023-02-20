@@ -1,0 +1,4 @@
+Write a program to store 10 elements (given by keyboard) in a linked list. You have to write following functions.
+a) insert the element at the last of the list.
+b) insert the element at the first of the list
+c) insert the element as the nth element of the list.
